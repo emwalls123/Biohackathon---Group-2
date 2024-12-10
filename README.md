@@ -5,7 +5,7 @@ Marfan Syndrome is an autosomal disorder (only need one copy to develop the cond
 * Skeletal - scoliosis, chest wall deformity, tall stature, abnormal joint mobility
 * Ocular - ectopia lentis - condition characterized by the displacement or malposition of the eye's crystalline lens from its normal location. It can range from a partial dislocation (lens subluxation) to a complete dislocation (lens luxation), almost always bilateral in MFS
 * Cardiovascular system - progressive dilation of the aortic root and ascending aorta, causes aortic incompetence and dissection; Leading cause of premature death in MFS
-
+  
 Symptoms of this disease include:
 * tall stature, long limbs, scoliosis, joint hypermobility, high-arched palate
 * aortic root dilatation and dissection (most life threatening)
